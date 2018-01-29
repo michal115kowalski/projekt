@@ -3,7 +3,11 @@
 using namespace std;
 
 int main()
-{   cout<<"Tak to sie nie  gralo "<<endl;
+<<<<<<< HEAD
+{   cout<<"Spadaj "<<endl;
+=======
+{   cout<<"Spadaj"<<endl;
+>>>>>>> NowaGalaz
     cout<<"TAK!!!! Program dziala"<<endl;
     cout << "Witaj swiecie!" << endl;
     return 0;
